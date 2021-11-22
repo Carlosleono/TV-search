@@ -1,5 +1,5 @@
 # TV-search
-[This_is_a_gif](science-magic.gif)
+![This_is_a_gif](science-magic.gif)
 
 
 ## Context
